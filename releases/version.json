@@ -1,0 +1,11 @@
+{
+  "versionName": "1.2",
+  "versionCode": 1,
+  "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.2-1/badt-1.2-1.apk",
+  "sha256": "11f12fad423121d17eaba0a0e4a175a9c8e74c6fbbc6bd98f8463cbd8182acab",
+  "minSupportedCode": 1,
+  "force": true,
+  "wifiOnly": false,
+  "notes": "Auto release 1.2",
+  "createdAt": "2025-09-30T00:00:00Z"
+}
