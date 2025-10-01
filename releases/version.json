@@ -1,11 +1,11 @@
 {
-  "versionName": "1.13",
-  "versionCode": 3,
-  "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.13-3/badt-1.13-3.apk",
-  "sha256": "220a8ecf43ee0b6abbd8bc5ba86ee9b37345bf0ff63f3239ecd0fc6ffe13c42e",
+  "versionName": "1.14",
+  "versionCode": 4,
+  "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.14-4/badt-1.14-4.apk",
+  "sha256": "d104c5dabf80e8fe5dde4deb0032696010362576cf26d97eb0e67bdf8f3b654f",
   "minSupportedCode": 1,
   "force": true,
   "wifiOnly": false,
-  "notes": "Auto release 1.13",
-  "createdAt": "2025-09-30T00:00:00Z"
+  "notes": "Auto release 1.14",
+  "createdAt": "2025-10-01T00:00:00Z"
 }
