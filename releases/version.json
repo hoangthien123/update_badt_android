@@ -2,7 +2,7 @@
   "versionName": "1.15",
   "versionCode": 5,
   "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.15-5/badt-1.15-5.apk",
-  "sha256": "653aa0b6a57730e8eec8272f8e1f17ebd569c61e293fa628f556f16942671f31",
+  "sha256": "52fd196b73aa718412e62adc529248a761d4ef58d2adb483d8396f61383c31c0",
   "minSupportedCode": 1,
   "force": true,
   "wifiOnly": false,
