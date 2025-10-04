@@ -1,11 +1,11 @@
 {
-  "versionName": "1.15",
-  "versionCode": 5,
-  "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.15-5/badt-1.15-5.apk",
-  "sha256": "52fd196b73aa718412e62adc529248a761d4ef58d2adb483d8396f61383c31c0",
+  "versionName": "1.16",
+  "versionCode": 6,
+  "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.16-6/badt-1.16-6.apk",
+  "sha256": "4982489ff8952a128738d4b74abc7b8ab83e83c80ae4fd538e44310dfe2e7ffb",
   "minSupportedCode": 1,
   "force": true,
   "wifiOnly": false,
-  "notes": "Đang tải bảng cập nhật v1.15",
+  "notes": "Đang tải bảng cập nhật v1.16",
   "createdAt": "2025-10-01T00:00:00Z"
 }
