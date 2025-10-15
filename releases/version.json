@@ -1,11 +1,11 @@
 {
-  "versionName": "1.17",
-  "versionCode": 7,
-  "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.17-7/badt-1.17-7.apk",
+  "versionName": "1.18",
+  "versionCode": 8,
+  "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.18-8/badt-1.18-8.apk",
   "sha256": "1de652e7f6ce0304df2564e02f85d0b52536e3fe2441f6b5f488eddeb32a5825",
   "minSupportedCode": 1,
   "force": true,
   "wifiOnly": false,
-  "notes": "Đang tải bảng cập nhật v1.17",
+  "notes": "Đang tải bảng cập nhật v1.18",
   "createdAt": "2025-10-04T00:00:00Z"
 }
