@@ -2,7 +2,7 @@
   "versionName": "1.18",
   "versionCode": 8,
   "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.18-8/badt-1.18-8.apk",
-  "sha256": "1de652e7f6ce0304df2564e02f85d0b52536e3fe2441f6b5f488eddeb32a5825",
+  "sha256": "c62c597f3df55b85a6fdbe0a339d77869d2d06020ced7ad11b2f7b6942a9efb9",
   "minSupportedCode": 1,
   "force": true,
   "wifiOnly": false,
