@@ -1,11 +1,11 @@
 {
-  "versionName": "1.22",
-  "versionCode": 12,
-  "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.22-12/badt-1.22-12.apk",
-  "sha256": "3b82d7763d23b2981aa9aad42e50e2b18ee20611d0f9a1e1fd89366fc947a72e",
+  "versionName": "1.24",
+  "versionCode": 14,
+  "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.24-14/badt-1.24-14.apk",
+  "sha256": "979ef2d48e84f99e24eef4390beca77bb5a6adcb88ee2b886ca88c18ed02de38",
   "minSupportedCode": 15,
   "force": true,
   "wifiOnly": false,
-  "notes": "Đang tải bảng cập nhật v1.22",
-  "createdAt": "2025-11-06T00:00:00Z"
+  "notes": "Đang tải bảng cập nhật v1.24, Vui lòng không tắt ứng dụng trong quá trình cập nhật.",
+  "createdAt": "2025-11-07T00:00:00Z"
 }
