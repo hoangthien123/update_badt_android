@@ -1,11 +1,11 @@
 {
-  "versionName": "1.36",
-  "versionCode": 26,
-  "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.36-26/badt-1.36-26.apk",
-  "sha256": "008bd15fb305901cbccb48056e3d8ff4bb2ff83c00da4bdfdcfc62b59208a743",
+  "versionName": "1.37",
+  "versionCode": 27,
+  "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.37-27/badt-1.37-27.apk",
+  "sha256": "921e2d672ddf272336fe53adbac23134a74e200e3de54fb5147d4789b5aa7cd5",
   "minSupportedCode": 15,
   "force": true,
   "wifiOnly": false,
-  "notes": "Đang tải bảng cập nhật v1.36, Vui lòng không tắt ứng dụng trong quá trình cập nhật.",
-  "createdAt": "2025-11-27T00:00:01Z"
+  "notes": "Đang tải bảng cập nhật v1.37, Vui lòng không tắt ứng dụng trong quá trình cập nhật.",
+  "createdAt": "2025-12-01T00:00:00Z"
 }
