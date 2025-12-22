@@ -1,11 +1,11 @@
 {
-  "versionName": "1.37",
-  "versionCode": 27,
-  "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.37-27/badt-1.37-27.apk",
-  "sha256": "921e2d672ddf272336fe53adbac23134a74e200e3de54fb5147d4789b5aa7cd5",
+  "versionName": "1.40",
+  "versionCode": 30,
+  "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.40-30/badt-1.40-30.apk",
+  "sha256": "1593785113eb387a2ada4a2997f2c065f00ffc3c7da1da6819624174f82c2b06",
   "minSupportedCode": 15,
   "force": true,
   "wifiOnly": false,
-  "notes": "Đang tải bảng cập nhật v1.37, Vui lòng không tắt ứng dụng trong quá trình cập nhật.",
-  "createdAt": "2025-12-01T00:00:00Z"
+  "notes": "Đang tải bảng cập nhật v1.40, Vui lòng không tắt ứng dụng trong quá trình cập nhật.",
+  "createdAt": "2025-12-22T00:00:00Z"
 }
