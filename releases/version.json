@@ -2,7 +2,7 @@
   "versionName": "1.42",
   "versionCode": 32,
   "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.42-32/badt-1.42-32.apk",
-  "sha256": "787cdba687835e701209247af2bb8bb7d470ad2c7e2054491224bf714abece6d",
+  "sha256": "b68aee77bf7a43f919ce8f585964bffb2a3d88809017ee11a77de3db1c898c17",
   "minSupportedCode": 15,
   "force": true,
   "wifiOnly": false,
