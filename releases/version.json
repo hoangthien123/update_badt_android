@@ -1,7 +1,7 @@
 {
   "versionName": "1.43",
   "versionCode": 33,
-  "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.43-32/badt-1.43-32.apk",
+  "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.43-33/badt-1.43-33.apk",
   "sha256": "7980d2f272a5427ca842c6d66471eb7abd17add8fa2f2ded378a1f915fdce294",
   "minSupportedCode": 15,
   "force": true,
