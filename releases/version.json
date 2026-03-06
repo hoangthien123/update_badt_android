@@ -3,7 +3,7 @@
   "versionCode": 35,
   "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.45-35/badt-1.45-35.apk",
   "sha256": "7fec68e338ec71d3f9ac36c83e524e85158a7768dc0930e0f0659dd46a1018c3",
-  "minSupportedCode": 20,
+  "minSupportedCode": 15,
   "force": true,
   "wifiOnly": false,
   "notes": "Đang tải bảng cập nhật v1.45, Vui lòng không tắt ứng dụng trong quá trình cập nhật.",
