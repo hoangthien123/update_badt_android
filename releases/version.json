@@ -2,7 +2,7 @@
   "versionName": "1.55",
   "versionCode": 45,
   "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.55-45/badt-1.55-45.apk",
-  "sha256": "",
+  "sha256": "5479b6b05fac09759b8ab1494cf30b253b59bb9a298fc39d20a7ca4cfb2b9e98",
   "minSupportedCode": 15,
   "force": true,
   "wifiOnly": false,
