@@ -1,11 +1,11 @@
 {
-  "versionName": "1.62",
-  "versionCode": 52,
-  "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.62-52/badt-1.62-52.apk",
-  "sha256": "df697c75dd6e52592f8a61f086cd929164415b056fd3e20c4a3b6b4d25e320c1",
+  "versionName": "1.63",
+  "versionCode": 53,
+  "apkUrl": "https://github.com/hoangthien123/update_badt_android/releases/download/v1.63-53/badt-1.63-53.apk",
+  "sha256": "7706f393eced2c41ba5d72c449edd9777b9707eba60b1d13c8674f1acce597d5",
   "minSupportedCode": 15,
   "force": true,
   "wifiOnly": false,
-  "notes": "Đang tải bảng cập nhật v1.62, Vui lòng không tắt ứng dụng trong quá trình cập nhật.",
-  "createdAt": "2026-07-13T00:00:00Z"
+  "notes": "Đang tải bảng cập nhật v1.63, Vui lòng không tắt ứng dụng trong quá trình cập nhật.",
+  "createdAt": "2026-07-18T00:00:00Z"
 }
